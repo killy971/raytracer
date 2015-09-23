@@ -1,4 +1,7 @@
 # Raytracer
+[![Build Status](https://travis-ci.org/chemicaloid/raytracer.svg?branch=master)](https://travis-ci.org/chemicaloid/raytracer)
+[![Coverage Status](https://coveralls.io/repos/chemicaloid/raytracer/badge.svg?branch=master&service=github)](https://coveralls.io/github/chemicaloid/raytracer?branch=master)
+
 A raytracer written in Haskell.
 
 ## License
