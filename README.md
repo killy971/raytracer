@@ -5,6 +5,8 @@
 A raytracer written in Haskell.
 
 ## License
+![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
+
 The MIT License (MIT)
 
 Copyright (c) 2015 chemicaloid.com
